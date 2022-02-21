@@ -117,7 +117,7 @@ main {
 .highlight {
     display: flex;
     align-items: center;
-    margin-top: 96px;
+    margin-top: 32px;
 }
 
 .highlight .tag {
